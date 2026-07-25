@@ -6,6 +6,10 @@ The **Sales Performance Analytics Dashboard** is an interactive Power BI dashboa
 
 The dashboard transforms raw sales data into meaningful visual insights that help businesses monitor key performance indicators (KPIs), identify trends, and make data-driven decisions.
 
+
+<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Data%20Analytics-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Visualization-FF6F61?style=for-the-badge"/> <img src="https://img.shields.io/badge/Business%20Intelligence-6A5ACD?style=for-the-badge"/> <img src="https://img.shields.io/badge/Sales%20Analysis-2E8B57?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dashboard-FF8C00?style=for-the-badge"/> <img src="https://img.shields.io/badge/DAX-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power%20Query-00A4EF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Cleaning-20B2AA?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Analysis-DC143C?style=for-the-badge"/> </p>
+
+
 ## 🛠️ Tools & Technologies
 
 * **Power BI Desktop** – Dashboard development and data visualisation
