@@ -77,10 +77,6 @@ The dashboard helps answer important business questions such as:
 ![Dashboard Preview]<img width="1152" height="648" alt="salesdasshboardscreenshort" src="https://github.com/user-attachments/assets/c17e4e98-e65c-4e98-8908-9034845655d2" />
 
 
-## 🚀 Live Dashboard
-
-👉 [View Live Power BI Dashboard](YOUR_POWER_BI_LIVE_LINK_HERE)
-
 ## 📂 Project Files
 
 * `Sales_Performance_Dashboard.pbix` – Power BI project file
